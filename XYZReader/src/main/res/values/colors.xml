@@ -1,0 +1,28 @@
+
+<resources>
+<!--    <color name="photo_placeholder">#ccc</color>-->
+
+<!--    <color name="theme_primary">#04561A</color>-->
+<!--    <color name="theme_primary_dark">#04561A</color>-->
+<!--    <color name="theme_accent">#04561A</color>-->
+<!--    <color name="ltgray">#ffe0e0e0</color>-->
+
+<!--    <color name="photo_placeholder">#D6EAF8</color>-->
+<!--    <color name="theme_primary">#5DADE2</color>-->
+<!--    <color name="theme_primary_dark">#2E86C1</color>-->
+<!--    <color name="theme_accent">#EC7063</color>-->
+
+
+
+    <color name="photo_placeholder">#3e8444</color>
+    <color name="theme_primary">#002c00</color>
+    <color name="theme_primary_dark">#04561a</color>
+    <color name="theme_accent">#560c0c</color>
+<!--    <color name="ltgray">#2E86C1</color>-->
+
+<!--    <color name="blue_1">#D6EAF8</color>-->
+<!--    <color name="blue_2">#5DADE2</color>-->
+<!--    <color name="blue_3">#2E86C1</color>-->
+<!--    <color name="share">#EC7063</color>-->
+
+</resources>
